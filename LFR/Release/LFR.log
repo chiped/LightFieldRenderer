@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  LFR.cpp
+c:\users\chip\documents\visual studio 2010\projects\lfr\lfr\Form1.h(138): warning C4101: 'weight' : unreferenced local variable
+c:\users\chip\documents\visual studio 2010\projects\lfr\lfr\Form1.h(249): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\chip\documents\visual studio 2010\projects\lfr\lfr\Form1.h(250): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\chip\documents\visual studio 2010\projects\lfr\lfr\Form1.h(314): warning C4101: 'weight' : unreferenced local variable
+c:\users\chip\documents\visual studio 2010\projects\lfr\lfr\Form1.h(428): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\chip\documents\visual studio 2010\projects\lfr\lfr\Form1.h(429): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\chip\documents\visual studio 2010\projects\lfr\lfr\Form1.h(462): warning C4101: 'weight' : unreferenced local variable
+  Generating Code...
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  LFR.vcxproj -> C:\Users\ChiP\Documents\Visual Studio 2010\Projects\LFR\Release\LFR.exe

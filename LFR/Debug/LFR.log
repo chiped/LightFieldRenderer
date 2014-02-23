@@ -1,0 +1,14 @@
+﻿  LFR.cpp
+c:\users\chip\documents\visual studio 2010\projects\lfr\lfr\Form1.h(138): warning C4101: 'weight' : unreferenced local variable
+c:\users\chip\documents\visual studio 2010\projects\lfr\lfr\Form1.h(249): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\chip\documents\visual studio 2010\projects\lfr\lfr\Form1.h(250): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\chip\documents\visual studio 2010\projects\lfr\lfr\Form1.h(314): warning C4101: 'weight' : unreferenced local variable
+c:\users\chip\documents\visual studio 2010\projects\lfr\lfr\Form1.h(428): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\chip\documents\visual studio 2010\projects\lfr\lfr\Form1.h(429): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\chip\documents\visual studio 2010\projects\lfr\lfr\Form1.h(462): warning C4101: 'weight' : unreferenced local variable
+opencv_haartraining_engined.lib(cvboost.obj) : warning LNK4099: PDB 'opencv_haartraining_engined.pdb' was not found with 'opencv_haartraining_engined.lib(cvboost.obj)' or at 'C:\Users\ChiP\Documents\Visual Studio 2010\Projects\LFR\Debug\opencv_haartraining_engined.pdb'; linking object as if no debug info
+opencv_haartraining_engined.lib(cvcommon.obj) : warning LNK4099: PDB 'opencv_haartraining_engined.pdb' was not found with 'opencv_haartraining_engined.lib(cvcommon.obj)' or at 'C:\Users\ChiP\Documents\Visual Studio 2010\Projects\LFR\Debug\opencv_haartraining_engined.pdb'; linking object as if no debug info
+opencv_haartraining_engined.lib(cvhaarclassifier.obj) : warning LNK4099: PDB 'opencv_haartraining_engined.pdb' was not found with 'opencv_haartraining_engined.lib(cvhaarclassifier.obj)' or at 'C:\Users\ChiP\Documents\Visual Studio 2010\Projects\LFR\Debug\opencv_haartraining_engined.pdb'; linking object as if no debug info
+opencv_haartraining_engined.lib(cvhaartraining.obj) : warning LNK4099: PDB 'opencv_haartraining_engined.pdb' was not found with 'opencv_haartraining_engined.lib(cvhaartraining.obj)' or at 'C:\Users\ChiP\Documents\Visual Studio 2010\Projects\LFR\Debug\opencv_haartraining_engined.pdb'; linking object as if no debug info
+opencv_haartraining_engined.lib(cvsamples.obj) : warning LNK4099: PDB 'opencv_haartraining_engined.pdb' was not found with 'opencv_haartraining_engined.lib(cvsamples.obj)' or at 'C:\Users\ChiP\Documents\Visual Studio 2010\Projects\LFR\Debug\opencv_haartraining_engined.pdb'; linking object as if no debug info
+  LFR.vcxproj -> C:\Users\ChiP\Documents\Visual Studio 2010\Projects\LFR\Debug\LFR.exe
